@@ -1,0 +1,11 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sim_1/new/sim_1.v,1667961024,verilog,,,,sim_1,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/bin2bcd.v,1668026845,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/clock_down_converter.v,,bin2bcd,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/clock_down_converter.v,1668026052,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/decoder.v,,clock_down_converter,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/decoder.v,1667956027,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/updownCounter.v,,decoder,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/updownCounter.v,1668028219,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/updownCounter_Top.v,,updownCounter,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sources_1/new/updownCounter_Top.v,1667953499,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_4/project_4.srcs/sim_1/new/sim_1.v,,updownCounter_Top,,,,,,,,

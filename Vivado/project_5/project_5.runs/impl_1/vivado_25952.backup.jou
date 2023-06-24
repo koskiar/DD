@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Nov 29 15:30:50 2022
+# Process ID: 25952
+# Current directory: C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.runs/impl_1
+# Command line: vivado.exe -log sqrt_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sqrt_Top.tcl -notrace
+# Log file: C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.runs/impl_1/sqrt_Top.vdi
+# Journal file: C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source sqrt_Top.tcl -notrace

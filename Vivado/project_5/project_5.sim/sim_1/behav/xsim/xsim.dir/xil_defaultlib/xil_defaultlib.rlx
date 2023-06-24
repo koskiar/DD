@@ -1,0 +1,12 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sim_1/new/sim_1.v,1669750916,verilog,,,,sim_1,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/bcd7seg.v,1669661136,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/bin2bcd.v,,bcd7seg,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/bin2bcd.v,1669661136,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/clock_down_converter.v,,bin2bcd,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/clock_down_converter.v,1669757060,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/sqrt_Top.v,,clock_down_converter,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/sqrt_Top.v,1669749202,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/sqrt_controller.v,,sqrt_Top,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/sqrt_controller.v,1669750641,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/sqrt_data_path.v,,sqrt_controller,,,,,,,,
+C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sources_1/new/sqrt_data_path.v,1669750810,verilog,,C:/Users/thear/Documents/college/Year 2/DIGITAL DESIGN Fall 2022/Vivado/project_5/project_5.srcs/sim_1/new/sim_1.v,,sqrt_data_path,,,,,,,,
